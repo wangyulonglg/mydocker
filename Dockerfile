@@ -61,6 +61,7 @@ RUN export \
 	./make.bash; \
 	\
 	rm -rf \
+	
 # https://github.com/golang/go/blob/0b30cf534a03618162d3015c8705dd2231e34703/src/cmd/dist/buildtool.go#L121-L125
 		/usr/local/go/pkg/bootstrap \
 # https://golang.org/cl/82095
